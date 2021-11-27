@@ -1,0 +1,8 @@
+%/a/b/#/*/F/
+s0/s0,lambda,R/s1,*,L/s5,lambda,L/s0,lambda,R/0/
+s1/s1,lambda,L/s1,lambda,L/s2,lambda,R/s1,lambda,L/0/
+s2/s3,*,R/s2,lambda,R/#/s2,lambda,R/0/
+s3/s4,*,L/s3,lambda,R/#/s3,lambda,R/0/
+s4/s4,lambda,L/s4,lambda,L/s0,lambda,R/s4,lambda,L/0/
+s5/s5,lambda,L/s5,lambda,L/s6,lambda,R/s5,lambda,L/0/
+s6/#/#/#/s6,lambda,R/1/

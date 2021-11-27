@@ -1,0 +1,5 @@
+%/0/1/#/F
+s0/s0,lambda,R/s0,lambda,R/s1,lambda,L/0/
+s1/s2,1,R/s3,0,L/s2,1,R/0/
+s2/#/#/#/1/
+s3/s1,lambda,N/s1,lambda,N/#/0/
